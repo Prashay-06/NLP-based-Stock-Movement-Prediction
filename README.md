@@ -39,6 +39,7 @@ Observation:
 * Fine-tuning led to overfitting
 * No significant improvement over TF-IDF
 This indicated that model complexity alone does not solve the problem.
+
 ---
 
 ### 3. Hybrid Model (Final Approach)
@@ -56,6 +57,7 @@ Performance:
 * ROC-AUC around 0.6
 
 This approach performed best, showing the importance of combining text with market features.
+
 ---
 
 ## Target Definition
