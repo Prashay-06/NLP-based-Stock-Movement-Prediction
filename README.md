@@ -70,11 +70,13 @@ Two approaches were tested:
    * More reliable evaluation
 
 The median-based split was used in the final model.
+
 ---
 
 ## Threshold Selection
 Using the default classification threshold (0.5) resulted in poor recall for the positive class.
 The threshold was tuned using F1-score, and a value of **0.3** was selected to improve class balance.
+
 ---
 
 ## Evaluation
